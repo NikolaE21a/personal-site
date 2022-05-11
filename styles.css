@@ -10,8 +10,9 @@ p{
   line-height: 2;
 }
 hr{
-  border: dotted  6px;
+  border: dotted #EAF6F6  6px;
   border-bottom: none;
+  width: 4%;
   margin: 100px auto;
 }
 h1{
